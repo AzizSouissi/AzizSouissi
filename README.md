@@ -1,25 +1,19 @@
-### <div align="center">I'm Aziz Souissi, a DevOps, MLOps, and Cloud Computing enthusiast 🚀</div>  
-  
+# 💫 About Me:
+
+I'm Aziz Souissi, a DevOps, MLOps, and Cloud Computing enthusiast 🚀</div>  
 
 - 🔭 I’m currently working on CI/CD pipelines migration and infrastructure automation using GitLab and Terraform.  
-  
 
 - 🌱 I’m currently learning more about Kubernetes and advanced MLOps workflows.  
-  
 
 - ❓ Ask me about anything related to DevOps, MLOps, and cloud infrastructure.  
   
-
 - ⚡ Fun fact: I automate everything possible!  
   
-
 <br/>  
 
-
-## My Skill Set  
+# 💻 My Skill Set:
 <table><tr><td valign="top" width="33%">
-
-
 
 ### DevOps and Cloud  
 <div align="center">  
@@ -34,8 +28,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend Development  
 <div align="center">  
 <a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" height="50" /></a>  
@@ -47,8 +39,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### MLOps and Data Science  
 <div align="center">  
@@ -63,23 +53,10 @@
 
 <br/>    
 
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/AzizSouissi" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/azizsouissi" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="mailto:aziz.souissi01@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/email-%230078D4.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=email style="margin-bottom: 5px;" />
-</a>
-</div>  
-  
-
-<br/>  
-
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fagmaxxer) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azizsouissi) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aziz.souissi01@gmail.com)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AzizSouissi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -90,5 +67,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=AzizSouissi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AzizSouissi&icon=0&color=6)](https://visitcount.itsvg.in)  
- 
+[![](https://visitcount.itsvg.in/api?id=AzizSouissi&icon=0&color=6)](https://visitcount.itsvg.in)   
